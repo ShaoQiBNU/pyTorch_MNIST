@@ -127,6 +127,8 @@ if __name__ == '__main__':
 
     ################# LeNet module #################
     model = LeNet()
+    
+    ########## 这里打印的model结构是LeNet 的 __init__ 下的结构 #########
     print("LeNet model is as follows:")
     print(model)
 

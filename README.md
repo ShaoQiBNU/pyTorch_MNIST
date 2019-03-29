@@ -204,4 +204,4 @@ if __name__ == '__main__':
     test(data_loader_test, model, cost)
 ```
 
-
+## pytorch出了ignite的高级训练模型API，具体可参见：https://github.com/pytorch/ignite
